@@ -8,3 +8,7 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@MarkGs/30-nites-of-code)  
+  ![@MarkGs #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MarkGs)
